@@ -1,1 +1,15 @@
-v
+version: "3.10"
+services:
+   worker:
+    build: .
+    environment:
+      BOT_TOKEN: $BOT_TOKEN
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      CHANNELS: $CHANNEL
+      START_PIC: https://graph.org/file/bee17850e842b8ecaad3c.jpg
+      ADMINS: 1733124290
+      LOG_CHANNEL: $LOG_CHANNEL
+      DATABASE_NAME: $DATABASE_NAME
+      DATABASE_URI: $DATABASE_URI
+      HEROKU_API_KEY: $HEROKU_API_KEY
