@@ -9,7 +9,8 @@ services:
       CHANNELS: $CHANNEL
       START_PIC: https://graph.org/file/bee17850e842b8ecaad3c.jpg
       ADMINS: 1733124290
+      FORCE_SUB: -1001541018556
       LOG_CHANNEL: $LOG_CHANNEL
-      DATABASE_NAME: $DATABASE_NAME
-      DATABASE_URI: $DATABASE_URI
-      HEROKU_API_KEY: $HEROKU_API_KEY
+      DB_NAME: $DB_NAME
+      DB_URL: $DB_URL
+      
