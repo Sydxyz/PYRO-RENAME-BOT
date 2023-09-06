@@ -49,6 +49,7 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """<b>Hᴀɪ {} 👋,
+    
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ ΔΠD Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ.
 
@@ -65,6 +66,7 @@ Tʜɪs Bᴏᴛ Wᴀs CʀᴇΔᴛᴇᴅ Bʏ : @Syd_xyZ 🫥</b>"""
 ├📕 LɪʙʀᴀΔʀƴ : <a href=https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
 ├✏️ LᴀɴɢᴜΔɢᴇ: <a href=https://t.me/GetTGLinks>ᴇɴɢളയം 🫠</a>
 ├💾 DᴀᴛΔ BΔꜱᴇ: <a href=https://t.me/+3-nuV_9INIg0MDY1>TG ᴅʙ</a>
+├🔜 ʙΔᴄᴋ-Uᴩ: <a href=https://t.me/nt_Backup/5>UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ├📊 BᴜIʟᴅ ∇ᴇʀꜱɪᴏɴ: v1 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]</b>     
 ╰───────────────⍟ """
 
@@ -86,7 +88,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
-#⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
+#⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @SyD_XyZ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MᴏTᴇᴄʜ Yᴛ</a>
